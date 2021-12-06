@@ -1,0 +1,98 @@
+                    body {
+                        background-color: #white;
+                        ;
+                    }
+                    
+                    #title {
+                        text-align: center;
+                        position: relative;
+                        padding-bottom: 200px;
+                    }
+                    
+                    h1 {
+                        display: inline-block;
+                        font-size: 4rem;
+                        font-family: 'Josefin Sans', sans-serif;
+                        font-family: 'Montserrat', sans-serif;
+                    }
+                    
+                    p {
+                        word-spacing: 5px;
+                        font-weight: 500;
+                    }
+                    
+                    .big-heading:hover {
+                        transition: 1s;
+                        border-bottom: 4px solid black;
+                    }
+                    
+                    .title-image {
+                        display: block;
+                        padding-top: 140px;
+                        width: 350px;
+                        margin: auto;
+                    }
+                    
+                    .title-image:hover {
+                        transition: 1s;
+                        width: 360px;
+                    }
+                    /* SECOND CONTAINER  */
+                    
+                    #website {
+                        padding-top: 150px;
+                        text-align: center;
+                    }
+                    
+                    #art {
+                        padding-top: 150px;
+                        text-align: center;
+                    }
+                    
+                    .website-text,
+                    h1 {
+                        font-weight: 20px;
+                    }
+                    
+                    h6,
+                    h2,
+                    h3,
+                    h4,
+                    h5 {
+                        font-family: 'Josefin Sans', sans-serif;
+                        letter-spacing: 0.15em;
+                        font-family: 'Montserrat', sans-serif;
+                    }
+                    
+                    p {
+                        font-weight: bolder;
+                    }
+                    
+                    hr {
+                        width: 50px;
+                        border-top: 12px dotted black;
+                    }
+                    
+                    .secondheader {
+                        padding: 10px;
+                    }
+                    
+                    .coding {
+                        width: 400px;
+                        padding-top: 100px;
+                        padding-bottom: 100px;
+                    }
+                    
+                    .buttons {
+                        padding-top: 20px;
+                        : 200px;
+                    }
+                    
+                    #footer {
+                        padding: 200px 0 50px 0;
+                        text-align: center;
+                    }
+                    
+                    .social-icon {
+                        margin: 20px 10px;
+                    }
